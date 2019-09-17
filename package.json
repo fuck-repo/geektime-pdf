@@ -1,0 +1,23 @@
+{
+  "name": "geektime-pdf",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "geektime-pdf": "./index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Go7hic/geektime-pdf.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Go7hic/geektime-pdf/issues"
+  },
+  "homepage": "https://github.com/Go7hic/geektime-pdf#readme"
+}
