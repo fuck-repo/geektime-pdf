@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Go7hic/geektime-pdf/issues"
   },
-  "homepage": "https://github.com/Go7hic/geektime-pdf#readme"
+  "homepage": "https://github.com/Go7hic/geektime-pdf#readme",
+  "dependencies": {
+    "puppeteer": "^1.20.0"
+  }
 }
